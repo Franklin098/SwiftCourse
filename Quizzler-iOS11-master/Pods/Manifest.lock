@@ -1,0 +1,29 @@
+PODS:
+  - Down (0.8.6)
+  - iosMath (0.9.4)
+  - RichTextView (2.2.0):
+    - Down
+    - iosMath
+    - SnapKit
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - iosMath
+  - RichTextView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Down
+    - iosMath
+    - RichTextView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Down: 3c758f2388fa739663023f400e742a988fa1e21d
+  iosMath: f7a6cbadf9d836d2149c2a84c435b1effc244cba
+  RichTextView: ddb0a12b9dd513ad622c090b4610c724470f60ba
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 945f62af2a0871f924a4b991fd986053fe9c8699
+
+COCOAPODS: 1.7.4
